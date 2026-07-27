@@ -65,6 +65,8 @@ DAX	          KPI Calculations & Business Metrics**
 
 ![Product Performance](Dashboard%20Images/Product_Performance.png)
 
+---
+
 Done By : 
 Vinoth.M
 
