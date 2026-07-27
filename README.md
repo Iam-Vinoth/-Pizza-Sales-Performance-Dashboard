@@ -55,15 +55,15 @@ NumPy	      Numerical Computations
 Power Query	  Data Cleaning & ETL
 DAX	          KPI Calculations & Business Metrics**
 
-## Dashboard Preview
+# Dashboard Preview
 
-### Sales Overview
+## Sales Overview
 
-![Dashboard Overview](images/Dashboard_Overview.png)
+![Sales Overview](Images/OVERVIEW.png)
 
-### Product Performance
+## Product Performance
 
-![Product Performance](images/Product_Performance.png)
+![Product Performance](Images/DASHBOARD.png)
 
 ---
 
