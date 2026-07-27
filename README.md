@@ -59,11 +59,11 @@ DAX	          KPI Calculations & Business Metrics**
 
 ### Sales Overview
 
-![Dashboard Overview](Dashboard%20Images/Dashboard_Overview.png)
+![Dashboard Overview](images/Dashboard_Overview.png)
 
 ### Product Performance
 
-![Product Performance](Dashboard%20Images/Product_Performance.png)
+![Product Performance](images/Product_Performance.png)
 
 ---
 
